@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hh_partition_number:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hh_partition_number_jar</output-path>
+    <root id="archive" name="hh_partition_number.jar">
+      <element id="module-output" name="hh_partition_number" />
+    </root>
+  </artifact>
+</component>
